@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713767060424",
+    "project_id": "hoopsnews-2ba54",
+    "storage_bucket": "hoopsnews-2ba54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713767060424:android:a5d6b7508f7baca5f236fd",
+        "android_client_info": {
+          "package_name": "com.uts.hoopsnews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK1TlfE9PugcAxdCizmvuMXib8aVUyA0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
